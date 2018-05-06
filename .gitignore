@@ -1,0 +1,12 @@
+build
+bin
+*.sln
+*.vcxproj
+*.user
+*.db
+.settings
+.project
+.cproject
+*.pdb
+*.opendb
+
